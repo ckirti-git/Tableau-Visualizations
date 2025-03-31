@@ -4,7 +4,7 @@ This repository contains various Tableau dashboards showcasing data visualizatio
 ## 📊 Sales Performance Dashboard
 - **Dataset:** Office Supplies Sales
 - **Folder:** [Sales_Performance](./Sales_Performance/)
-- ![Sales Performance](./Sales_Performance/sales_performance.png)
+- **Tableau Dashboard:** For interactive report click on ->[ link](https://public.tableau.com/views/Book1_17432454531890/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📉 Unemployment Analysis Dashboard
 - **Dataset:** [Dataset Name]
