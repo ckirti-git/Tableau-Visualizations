@@ -7,9 +7,9 @@ This repository contains various Tableau dashboards showcasing data visualizatio
 - **Tableau Dashboard:** For interactive report click on ->[ link](https://public.tableau.com/views/Book1_17432454531890/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📉 Unemployment Analysis Dashboard
-- **Dataset:** [Dataset Name]
+- **Dataset:** Long_Term_unemployement_Statistics
 - **Folder:** [Unemployment_Analysis](./Unemployment_Analysis/)
-- ![Unemployment Analysis](./Unemployment_Analysis/unemployment_analysis.png)
+- **Tableau Dashboard:** For interactive report click on ->[ link](https://public.tableau.com/views/Book1_17432454531890/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 *More dashboards will be added soon!*
