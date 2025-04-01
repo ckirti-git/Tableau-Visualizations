@@ -4,7 +4,7 @@
 This Tableau dashboard visualizes total sales across different individuals in the **Office Supplies** dataset, categorized by region (Central, East, and West).
 
 ## 📊 Visualization
-![Sales Performance](sales_performance.png)
+ **Tableau Dashboard:** For interactive report click on ->[ link](https://public.tableau.com/views/Book1_17432454531890/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📈 Insights
 - **Matthew & Susan** are the top performers in Central and East regions, respectively, with **$3.1K** in total sales.
