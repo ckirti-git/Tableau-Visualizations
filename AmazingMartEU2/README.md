@@ -1,1 +1,27 @@
-AmazingMartEU2
+# 📊 AmazingMartEU2 Dashboard
+
+## 🌍 Overview
+This Tableau dashboard provides insights into **sales and profit trends** across different regions in Europe.  
+It helps visualize:
+- **Sales distribution across European countries**
+- **Profit trends using a scatter plot**
+- **Comparison across different years (2011-2014)**
+
+## 📌 Dashboard Preview
+![AmazingMartEU2 Dashboard](https://public.tableau.com/views/AmazingMartProfitMarginViz/ProfitMarginDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## 🔍 Key Insights
+1️⃣ The **Map of Europe** shows the sales volume across different regions.  
+   - Larger blue circles indicate **higher sales**.  
+   - Red circles indicate **negative profit (losses)**.  
+
+2️⃣ The **Customer Scatter Plot** displays sales vs. profit:
+   - Positive profit points are shown in **blue**.
+   - Negative profit points are shown in **red**.
+
+## 📁 Dataset Used
+- **Dataset Name:** S4-AmazingMartEU2  
+
+## 🚀 How to Use
+1. Open the `AmazingEmart_dashboard.png` file to view the dashboard.
+2. You can also **download** and explore the dataset on Tableau Public on ![AmazingMartEU2 Dashboard](https://public.tableau.com/views/AmazingMartProfitMarginViz/ProfitMarginDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
