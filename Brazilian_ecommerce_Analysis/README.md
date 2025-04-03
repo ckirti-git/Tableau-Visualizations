@@ -15,8 +15,8 @@ This Tableau report visualizes seller locations in Brazil along with their payme
 - Seller activity varies across states.
 
 ## Tableau Report
-- High seller concentration in **São Paulo & Rio de Janeiro**. 
-
+- **Tableau Dashboard:** For interactive report click on ->[ link](https://public.tableau.com/views/Brazilian_ecommerce_datasetsellers_in_their_geolocation/SellersintheirGeolocation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  
 ## Usage
 - Hover over locations for seller details.
 - Use Tableau filters for state, payment, or location.
