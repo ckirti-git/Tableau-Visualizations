@@ -21,9 +21,7 @@ and [Exceed of Targets](https://public.tableau.com/views/ExceedofTarget/Sheet1?:
 ## 📊 Brazilian_ecommerce_Analysis Dashboard
 - **Dataset:** AmazingMartEU2
 - **Folder:** [AmazingMartEU2](./AmazingMartEU2/)
-- **Tableau Dashboard:** For interactive report click on ->[ SalesVsTarget](https://public.tableau.com/views/Sales_VS_Targets/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-,[Countrywise Profit Margin](https://public.tableau.com/views/AmazingMartProfitMarginViz/ProfitMarginDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-and [Exceed of Targets](https://public.tableau.com/views/ExceedofTarget/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Tableau Dashboard:** For interactive report click on ->[ SalesVsTarget]([https://public.tableau.com/views/Sales_VS_Targets/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/shared/HGHSRS6XT?:display_count=n&:origin=viz_share_link)
 
 
 ---
