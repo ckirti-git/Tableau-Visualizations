@@ -21,7 +21,7 @@ and [Exceed of Targets](https://public.tableau.com/views/ExceedofTarget/Sheet1?:
 ## 📊 Brazilian_ecommerce_Analysis Dashboard
 - **Dataset:** Brazilian_ecommerce_dataset
 - **Folder:** [Brazilian_ecommerce_Analysis](./Brazilian_ecommerce_Analysis/)
-- **Tableau Dashboard:** For interactive report click on ->[ Brazilian_ecommerce_Analysis]([https://public.tableau.com/views/Sales_VS_Targets/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Tableau Dashboard:** For interactive report click on ->[ link](https://public.tableau.com/shared/HGHSRS6XT?:display_count=n&:origin=viz_share_link)
 
 
 ---
